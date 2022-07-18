@@ -1,1 +1,1 @@
->?php helo
+>?php helo; func();
