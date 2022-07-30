@@ -1,2 +1,3 @@
 new text
 New string
+Hello, git!
