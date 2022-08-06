@@ -1,3 +1,5 @@
 new text
 New string
 Hello, git!
+
+Hello, git!
