@@ -3,3 +3,5 @@ New string
 Hello, git!
 
 Hello, git!
+
+new line
